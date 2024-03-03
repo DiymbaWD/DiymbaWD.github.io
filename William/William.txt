@@ -1,0 +1,4 @@
+Testing how to start simple commands in git, such as git init, git commmit and git add.
+
+Thank you 
+Ryan and Shufai
